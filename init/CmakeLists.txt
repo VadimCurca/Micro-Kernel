@@ -1,0 +1,5 @@
+project(init)
+
+add_library(init MODULE
+    init.cpp
+)
