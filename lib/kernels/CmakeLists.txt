@@ -1,0 +1,6 @@
+project(kernels)
+
+add_library(kernels MODULE
+    kernels.cpp
+)
+
